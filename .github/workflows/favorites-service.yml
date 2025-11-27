@@ -26,3 +26,5 @@ jobs:
         run: |
           docker build . --tag ${{ secrets.DOCKER_USERNAME }}/favorites-service:latest
           docker push ${{ secrets.DOCKER_USERNAME }}/favorites-service:latest
+
+#doasdaskdlkask
