@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+SQLAlchemy>=2.0
+psycopg2-binary
+python-multipart
